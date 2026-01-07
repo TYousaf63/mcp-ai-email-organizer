@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Local data
+data/
+*.db
+
+# IDE
+.idea/
+.DS_Store
