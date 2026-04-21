@@ -19,3 +19,4 @@ st.markdown(
 )
 
 st.success("Streamlit is running correctly.")
+
